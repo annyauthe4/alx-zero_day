@@ -1,1 +1,1 @@
-Create a git project directory
+Edit project directory
